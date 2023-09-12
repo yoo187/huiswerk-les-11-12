@@ -1,0 +1,107 @@
+style
+table , th , td
+{
+    border : 2px solid red;
+    color:black;  
+}
+header
+h1
+{
+  background-color: rgb(96, 96, 96);
+  width: 920px;
+}
+table
+{
+  border-collapse: collapse;
+  width: 20%;
+}
+th
+{
+  background-color: maroon;
+}
+.een{
+  width: 100px;
+  height: 222px;
+  background-color: rgb(116, 243, 201);
+}
+.twee{
+  width: 350px;
+  height: 220px;
+  background-color: rgb(33, 130, 106);
+}
+.drie{
+  width: 100px;
+  height: 222px;
+  background-color: rgb(28, 97, 165);
+}
+.vier{
+  width: 350px;
+  height: 220px;
+  background-color: rgb(10, 49, 155);
+}
+.vijf{
+  width: 100px;
+  height: 222px;
+  background-color: rgb(155, 90, 28);
+}
+.zes{
+  width: 350px;
+  height: 220px;
+  background-color:rgb(253, 166, 3) ;
+}
+.zeven{
+  width: 100px;
+  height: 222px;
+  background-color: rgb(149, 17, 17);
+}
+.acht{
+  width: 350px;
+  height: 220px;
+  background-color: rgb(91, 8, 8);
+}
+.negen{
+  width: 100px;
+  height: 222px;
+  background-color: rgb(79, 78, 78);
+}
+.tien{
+  width: 350px;
+  height: 220px;
+  background-color: grey;
+}
+.elf{
+  width: 100px;
+  height: 222px;
+  background-color: brown;
+}
+.twalf{
+  width: 350px;
+  height: 220px;
+  background-color: rgb(103, 47, 47);
+}
+.dertien{
+  width: 100px;
+  height: 222px;
+  background-color: gold;
+}
+.viertien{
+  width: 350px;
+  height: 220px;
+  background-color: yellow;
+}
+.vijftien{
+  width: 100px;
+  height: 222px;
+  background-color: silver;
+}
+.zestien{
+  width: 350px;
+  height: 220px;
+  background-color: rgb(146, 146, 146);
+}
+footer
+h2
+{
+  background-color: rgb(96, 96, 96);
+  width: 920px;
+}
